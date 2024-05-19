@@ -1,4 +1,4 @@
-### [![NuGet](https://img.shields.io/nuget/v/ShareInvest.UPbit?label=ShareInvest.UPbit&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.UPbit)
+# [![NuGet](https://img.shields.io/nuget/v/ShareInvest.UPbit?label=ShareInvest.UPbit&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.UPbit)
 ```C#
 using Newtonsoft.Json;
 
@@ -37,7 +37,7 @@ using (var api = new Quotation())
 }
 ```
 
-### bithumb
+# [![NuGet](https://img.shields.io/nuget/v/ShareInvest.Bithumb?label=ShareInvest.Bithumb&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.Bithumb)
 ```C#
 using Newtonsoft.Json;
 

@@ -1,4 +1,4 @@
-# coinone
+# [![NuGet](https://img.shields.io/nuget/v/ShareInvest.Coinone?label=ShareInvest.Coinone&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.Coinone)
 ```C#
 using Newtonsoft.Json;
 
